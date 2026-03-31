@@ -78,6 +78,7 @@ This project was completed as part of a virtual job simulation by Deloitte via F
 
 ## 👤 Author
 
-Jay Bakaraniya
+**Jay Bakaraniya**
+Jr. Data Analyst
 Phone Number: 437-766-9294
 Email: jaybakaraniya.tech@gmail.com
